@@ -1,0 +1,9 @@
+[run]
+source = accounts,core,ticketing,config
+omit =
+    */migrations/*
+    config/wsgi.py
+    config/asgi.py
+
+[report]
+show_missing = True
