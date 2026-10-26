@@ -146,6 +146,5 @@ On `main`, if `DOCKERHUB_USERNAME` / `DOCKERHUB_TOKEN` secrets are set, the imag
 
 ## Submission checklist
 
-- [ ] GitHub repo link: ____
-- [ ] DockerHub image (optional): ____
+- [ ] GitHub repo link: https://github.com/GodRAIZEL/dev-ops-ci-cd-GodRAIZEL
 - [ ] Swagger: `http://localhost:8000/api/docs/`
